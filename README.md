@@ -1,9 +1,8 @@
 # hi, i'm camille 💌
-I'm a Computer Science Master's student at Sapienza University of Rome, previously graduated in Computer Engineering at Roma Tre.  
-I love the space where **technology meets creativity** — music, art, and code are not that different when you think about it ⋆˚☆˖°⋆｡° ✮˖ ࣪ ⊹⋆.˚  
+I'm a Computer Science Master's student at Sapienza University of Rome, previously graduated in Computer Engineering at Roma Tre 👩🏻‍🎓.
 
-Here you'll find a mix of university work and personal projects [ a work in progress . . . ]
-
+Here you'll find a mix of university work and personal projects!  
+[ a work in progress ⟳]
 
 ---
 
@@ -14,17 +13,10 @@ camille = {
                       "Generative AI", "HCI", "Interactive Graphics"],
     "making_music":  ["singing", "playing instruments", "listening obsessively"],
     "making_things": ["crochet", "art & craft"],
+    "watching":      ["films", "series", "anything with a good story"],
     "currently":     "figuring it all out 𖡼.𖤣𖥧𖡼.𖤣𖥧"
 }
 ```
-
----
-
-## currently 
-- finishing my Master's at Sapienza 👩🏻‍🎓
-- consuming music at an irresponsible rate 𝄞⨾ 💿✮˚.⋆
-- watching too many things, regretting nothing 🍿
-- hands always busy with something 🖍️
 
 ---
 
@@ -35,8 +27,6 @@ camille = {
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camilleugenio&show_icons=true&theme=rose&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilleugenio&layout=compact&theme=rose&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=camilleugenio&show_icons=true&theme=rose&hide_border=true" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilleugenio&layout=compact&theme=rose&hide_border=true" width="28%" />
 </p>
