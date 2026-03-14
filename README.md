@@ -1,12 +1,17 @@
-# hi, i'm camille 💌
-I'm a soon to be MSc graduate in Engineering in Computer Science at Sapienza University of Rome,   
-previously graduated in Computer Engineering at Roma Tre University 👩🏻‍🎓.
+<h1 align="center">hi, i'm camille 💌</h1>
 
-Here you'll find a mix of university work and personal projects! [ a work in progress ⟳]
+<p align="center">
+I'm a soon to be MSc graduate in Engineering in Computer Science at Sapienza University of Rome, <br>
+previously graduated in Computer Engineering at Roma Tre University 👩🏻‍🎓.<br>
+<br> Here you'll find a mix of university work and personal projects! <br> [ a work in progress ⟳]
+</p>
 
 ---
 
-## what i'm into 📝
+<h2 align="center">what i'm into 📝</h2>
+
+<p align="center">
+
 ```python
 camille = {
     "exploring":     ["Machine Learning", "Computer Vision", 
@@ -18,21 +23,30 @@ camille = {
 }
 ```
 
----
-## languages & tools i've put my hands on 🧰
- 
-[![Languages and skills i've put my hands on](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,docker,rabbitmq,nodejs,firebase,gcp,sqlite,postgres,redis,threejs,react,js,ts,java,kotlin,c,r,html,css,figma,anaconda,github,notion,vscode,git&perline=11)](https://skillicons.dev)
+</p>
 
 ---
 
-## find me 🔍︎
-[![LinkedIn](https://img.shields.io/badge/linkedin-camille-%23E8B4B8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camille-justine-gomez-eugenio-774b62267/)
-[![Instagram](https://img.shields.io/badge/instagram-@caehmille-%23E8B4B8?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/caehmille)
+<h2 align="center">languages & tools i've put my hands on 🧰</h2>
+
+<p align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,docker,rabbitmq,nodejs,firebase,gcp,sqlite,postgres,redis,threejs,react,js,ts,java,kotlin,c,r,html,css,figma,anaconda,github,notion,vscode,git&perline=11" />
+</a>
+</p>
 
 ---
 
-<!-- snake contribution graph — set up via GitHub Actions (see below) -->
-![snake gif](https://github.com/camilleugenio/camilleugenio/blob/output/github-contribution-grid-snake.svg)
+<h2 align="center">find me 🔍︎</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/camille-justine-gomez-eugenio-774b62267/">
+  <img src="https://img.shields.io/badge/linkedin-camille-%23E8B4B8?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/caehmille">
+  <img src="https://img.shields.io/badge/instagram-@caehmille-%23E8B4B8?style=flat-square&logo=instagram&logoColor=white" />
+</a>
+</p>
 
 ---
 
