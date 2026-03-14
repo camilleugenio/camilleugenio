@@ -1,8 +1,9 @@
 # hi, i'm camille 💌
-> engineer by training ⋆ artist by nature ⋆ forever curious
-
 I'm a Computer Science Master's student at Sapienza University of Rome, previously graduated in Computer Engineering at Roma Tre.  
-I love the space where **technology meets creativity** — music, art, and code are not that different when you think about it ⋆˚☆˖°⋆｡° ✮˖ ࣪ ⊹⋆.˚
+I love the space where **technology meets creativity** — music, art, and code are not that different when you think about it ⋆˚☆˖°⋆｡° ✮˖ ࣪ ⊹⋆.˚  
+
+Here you'll find a mix of university work and personal projects [ a work in progress . . . ]
+
 
 ---
 
@@ -16,11 +17,6 @@ camille = {
     "currently":     "figuring it all out 𖡼.𖤣𖥧𖡼.𖤣𖥧"
 }
 ```
-
----
-
-## my projects 
-Here you'll find a mix of university work and personal projects (a work in progress ...)
 
 ---
 
