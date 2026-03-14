@@ -44,11 +44,11 @@ This repo is a work in progress ...
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camilleugenio&show_icons=true&theme=catppuccin_latte
+  <img src="https://github-readme-stats.vercel.app/api?username=camilleugenio&show_icons=true&theme=rose
 &hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilleugenio&layout=compact&theme=catppuccin_latte
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilleugenio&layout=compact&theme=rose
 &hide_border=true" />
 </p>
