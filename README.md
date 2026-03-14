@@ -1,16 +1,13 @@
-<h1 align="center">hi, i'm camille 💌</h1>
+# hi, i'm camille 💌
 
-<p align="center">
-I'm a soon to be MSc graduate in Engineering in Computer Science at Sapienza University of Rome, <br>
-previously graduated in Computer Engineering at Roma Tre University 👩🏻‍🎓.<br>
-<br> Here you'll find a mix of university work and personal projects! <br> [ a work in progress ⟳]
-</p>
+I'm a soon to be MSc graduate in Engineering in Computer Science at Sapienza University of Rome,   
+previously graduated in Computer Engineering at Roma Tre University 👩🏻‍🎓.
+
+Here you'll find a mix of university work and personal projects! [ a work in progress ⟳]
 
 ---
 
-<h2 align="center">what i'm into 📝</h2>
-
-<p align="center">
+## what i'm into 📝
 
 ```python
 camille = {
@@ -23,30 +20,18 @@ camille = {
 }
 ```
 
-</p>
+---
+
+## languages & tools i've put my hands on 🧰
+
+[![Languages and skills i've put my hands on](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,docker,rabbitmq,nodejs,firebase,gcp,sqlite,postgres,redis,threejs,react,js,ts,java,kotlin,c,r,html,css,figma,anaconda,github,notion,vscode,git&perline=11)](https://skillicons.dev)
 
 ---
 
-<h2 align="center">languages & tools i've put my hands on 🧰</h2>
+## find me 🔍︎
 
-<p align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,docker,rabbitmq,nodejs,firebase,gcp,sqlite,postgres,redis,threejs,react,js,ts,java,kotlin,c,r,html,css,figma,anaconda,github,notion,vscode,git&perline=11" />
-</a>
-</p>
-
----
-
-<h2 align="center">find me 🔍︎</h2>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/camille-justine-gomez-eugenio-774b62267/">
-  <img src="https://img.shields.io/badge/linkedin-camille-%23E8B4B8?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/caehmille">
-  <img src="https://img.shields.io/badge/instagram-@caehmille-%23E8B4B8?style=flat-square&logo=instagram&logoColor=white" />
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-camille-%23E8B4B8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camille-justine-gomez-eugenio-774b62267/)
+[![Instagram](https://img.shields.io/badge/instagram-@caehmille-%23E8B4B8?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/caehmille)
 
 ---
 
