@@ -1,6 +1,6 @@
 # hi, i'm camille 💌
-I'm a Computer Science Master's student at Sapienza University of Rome,   
-previously graduated in Computer Engineering at Roma Tre 👩🏻‍🎓.
+I'm a Soon to be MSc graduate in Engineering in Computer Science at Sapienza University of Rome,   
+previously graduated in Computer Engineering at Roma Tre University 👩🏻‍🎓.
 
 Here you'll find a mix of university work and personal projects!  
 [ a work in progress ⟳]
