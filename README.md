@@ -16,7 +16,6 @@ camille = {
     "making_music":  ["singing", "playing instruments", "listening obsessively"],
     "making_things": ["crochet", "art & craft"],
     "watching":      ["films", "series", "anything with a good story"],
-    "currently":     "figuring it all out 𖡼.𖤣𖥧𖡼.𖤣𖥧"
 }
 ```
 
