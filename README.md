@@ -12,7 +12,7 @@ Here you'll find a mix of university work and personal projects! [ a work in pro
 ```python
 camille = {
     "exploring":     ["Machine Learning", "Computer Vision", 
-                      "Generative AI", "HCI", "Interactive Graphics"],
+                      "Generative AI"],
     "making_music":  ["singing", "playing instruments", "listening obsessively"],
     "making_things": ["crochet", "art & craft"],
     "watching":      ["films", "series", "anything with a good story"],
