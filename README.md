@@ -21,13 +21,6 @@ camille = {
 
 ---
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=camilleugenio&show_icons=true&theme=rose&hide_border=true" width="38%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilleugenio&layout=compact&theme=rose&hide_border=true" width="34%" />
-</p>
-
----
-
 ## find me 🔍︎
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-camille-%23E8B4B8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camille-justine-gomez-eugenio-774b62267/)
