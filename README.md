@@ -7,20 +7,6 @@ Here you'll find a mix of university work and personal projects! [ a work in pro
 
 ---
 
-## what i'm into 📝
-
-```python
-camille = {
-    "exploring":     ["Machine Learning", "Computer Vision", 
-                      "Generative AI"],
-    "making_music":  ["singing", "playing instruments", "listening obsessively"],
-    "making_things": ["crochet", "art & craft"],
-    "watching":      ["films", "series", "anything with a good story"],
-}
-```
-
----
-
 ## find me 🔍︎
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-camille-%23E8B4B8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camille-justine-gomez-eugenio-774b62267/)
